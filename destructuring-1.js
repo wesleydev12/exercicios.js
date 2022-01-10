@@ -14,7 +14,7 @@ const pessoa = {
     }
 }
 
-const {nome, dataNascimento,} = pessoa
+const {nome, dataNascimento} = pessoa
 console.log(nome, dataNascimento)
 
 const {nome: n, dataNascimento: dtn} = pessoa
